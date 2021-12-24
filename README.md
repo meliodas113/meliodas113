@@ -26,6 +26,7 @@
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1n5Mpp3Yaf0ZkRUW3qz4sosBolr2yShqR/view?usp=sharing)
 - :email: anupam.fas27@gmail.com
+- :tv: [My Website](https://anupamsrivastava.me/)
 
 <h3><b>Looking forward to hearing from you!</b></h3>
 
